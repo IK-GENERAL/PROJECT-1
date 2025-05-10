@@ -1,0 +1,22 @@
+body{
+padding: 50px;
+background-color: yellow;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: red;
+    font-family: Arial,
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    color: blue;
+    font-family: Arial,
+}
+p{
+    font-size: 14px;
+    font-family: Verdana,
+}
